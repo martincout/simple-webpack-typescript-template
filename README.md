@@ -1,8 +1,7 @@
 # Vanilla Typescript with Website template
 To make html, css pages with Typescript.
 
-Created this project because of the current problem with webpack.config.ts I was having with the
-vanilla project boilerplate.
+Created this project because of the current problem I was having with webpack.config.ts in the vanilla typescript project
 ```javascript
 TypeError [ERR_UNKNOWN_FILE_EXTENSION]: Unknown file extension ".ts" for ./webpack.config.ts
 ```
