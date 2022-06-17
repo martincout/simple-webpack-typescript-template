@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamshaunjp/webpack-and-typescript.git"
+    "url": "git+https://github.com/martincout/simple-webpack-typescript-template.git"
   },
   "author": "",
   "license": "ISC",
