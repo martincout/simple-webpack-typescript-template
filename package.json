@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/iamshaunjp/webpack-and-typescript/issues"
   },
-  "homepage": "https://github.com/iamshaunjp/webpack-and-typescript#readme",
+  "homepage": "https://github.com/martincout/simple-webpack-typescript-template#readme",
   "devDependencies": {
     "ts-loader": "^6.2.2",
     "typescript": "^3.8.3",
